@@ -1,8 +1,0 @@
-dazniai 
-atstumas
-suskaiciuoti matricas 
-filipo formatu
-
-reikia galutiniu matricu
-
-bp basiu pora (100 raidziu) 
